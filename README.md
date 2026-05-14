@@ -40,13 +40,13 @@ Ensure you have Python installed. You will also need a **Kaggle API Token** (`ka
    ```
 3. Install the required dependencies:
    ```bash
-   pip install -r "house price ml/requirements.txt"
+   pip install -r "Main/requirements.txt"
    ```
 
 ### 3. How to Run
 Launch the interactive dashboard:
 ```bash
-python3 "house price ml/main.py"
+python3 "Main/main.py"
 ```
 
 ---
